@@ -1,7 +1,7 @@
 
 public class MyFirstProgram {
 	public void thisIsANewMethod() {
-		
+		System.out.println("I am a new Method and I'll bring you TROUBLES!");
 	}
 
 
