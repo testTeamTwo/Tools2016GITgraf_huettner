@@ -16,6 +16,7 @@ public class MyFirstProgram {
 			Out.print("Output number ");
 			Out.print(i);
 			Out.println(": Hello World!"); //Kommentar
+			newInt = newInt * newInt;
 			// Noch ein Kommentar
 		}
 
