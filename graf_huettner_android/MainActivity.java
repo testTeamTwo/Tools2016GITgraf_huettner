@@ -1,7 +1,7 @@
 
 public class MyFirstProgram {
 	public void thisIsANewMethod() {
-		
+		int newInt=Integer.MIN_VALUE;
 	}
 
 
