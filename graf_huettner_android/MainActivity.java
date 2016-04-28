@@ -3,6 +3,7 @@ public class MyFirstProgram {
 	public void thisIsANewMethod() {
 		int newInt=Integer.MIN_VALUE;
 		System.out.println("I am a new Method and I'll bring you TROUBLES!");
+		//bugfix
 	}
 
 
@@ -15,6 +16,7 @@ public class MyFirstProgram {
 			Out.print("Output number ");
 			Out.print(i);
 			Out.println(": Hello World!"); //Kommentar
+			
 		}
 
 	}
