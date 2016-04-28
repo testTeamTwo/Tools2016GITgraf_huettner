@@ -9,7 +9,7 @@ public class MyFirstProgram {
 		for (int i = 1; i <= numberOfOutputs; i++) {
 			Out.print("Output number ");
 			Out.print(i);
-			Out.println(": Hello World!");
+			Out.println(": Hello World!"); //Kommentar
 		}
 
 	}
