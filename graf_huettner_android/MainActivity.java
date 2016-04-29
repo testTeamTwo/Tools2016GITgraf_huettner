@@ -20,6 +20,7 @@ public class MyFirstProgram {
 
 			newInt = newInt * newInt;
 			// Noch ein Kommentar
+			//Und noch ein Kommentar!!
 
 			
 
